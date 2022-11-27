@@ -1,6 +1,7 @@
 # Resources 
 
 DSL - example from presentation: [link](https://github.com/mslowiak/c4-workshop/blob/main/example_banking_system.dsl)
+
 DSL - workshop template: [link](https://github.com/mslowiak/c4-workshop/blob/main/workshop_template.dsl)
 
 ### Links from presentation:
